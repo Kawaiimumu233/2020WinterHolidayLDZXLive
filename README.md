@@ -1,1 +1,5 @@
 # 2020WinterHolidayLDZXLive
+
+在这里可以下到录播
+点击上面的Release可以看到全部的录播下载
+建议使用Internet Download Manager或是其他多线程工具下载
